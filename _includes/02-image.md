@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A picture of an animal](https://placeimg.com/640/480/animals)
